@@ -1,6 +1,6 @@
 # Product Management API
 
-A simple **Product Management** API built with **Express.js** and **SQLite**. This API allows users to manage products by adding, updating, deleting, and retrieving product details.
+A simple **Product Management** API built with **Express.js** and **MongoDB**. This API allows users to manage products by adding, updating, deleting, and retrieving product details.
 
 ## Features
 
